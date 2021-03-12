@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1600400558 source:d:\kuliah konsep pemrograman\menghitung gaji\main.c
+	<stdio.h>
+	<stdlib.h>
+
